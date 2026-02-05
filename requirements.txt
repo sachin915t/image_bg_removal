@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers>=4.39.1
+gradio
+pillow
+loadimg
+einops
+timm
+kornia
+scikit-image
+huggingface_hub
