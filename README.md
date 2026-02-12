@@ -6,7 +6,7 @@ A deep learning–based background removal web app using **BiRefNet**, **PyTorch
 - Upload image / URL / file
 - Automatic background removal
 - Transparent PNG output
-- Works on CPU & GPU
+- Works on CPU & GPU //it takes time for processing because it is using free tear
 - Ready for HuggingFace Spaces deployment
 
 ## Tech Stack
